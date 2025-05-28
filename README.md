@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋
 
-<!--
-**crabbydev/crabbydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building clean, efficient, and impactful software.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- Passionate about code, creativity, and problem-solving  
+- Lover of Rust, minimalism, and elegant solutions  
+- Exploring system tools, open source, and performance hacks  
+
+---
+
+### What I’m Working On
+
+- 🚀 System info tools and CLI apps  
+- 🔧 Automation and productivity utilities  
+- 📚 Learning and sharing knowledge  
+
+---
+
+**“Code is poetry in motion.”**
+
